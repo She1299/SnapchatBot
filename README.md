@@ -1,3 +1,4 @@
+
 <h1 style='color: red'>This repo is deprecated due to changes in Snapchat's unofficial API.</h1>
 
 ![SnapchatBot](http://i.imgur.com/s8XADUn.png?1)
@@ -45,7 +46,7 @@ When sent an image, sends back the most similar image to that picture on the web
 #### The GIF Bot
 *(source at examples/gifbot.py)*
 
-Posts popular GIFs taken from the [Giphy](http://giphy.com) home page to its story.
+Posts popular GIFs taken from the [Giphy](http://giphyyy.com) home page to its story.
 
 #### The Connector Bot
 *(source at examples/connectorbot.py)*
